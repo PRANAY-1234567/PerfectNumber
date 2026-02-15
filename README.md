@@ -131,5 +131,8 @@ This type of logic is used in:
 * Logic building practice
 
 ---
+
+Coder--
+Pranay Jadhao
 <img width="741" height="722" alt="image" src="https://github.com/user-attachments/assets/816e47f0-9ff7-4264-bb52-5a20cbaf3737" />
 
