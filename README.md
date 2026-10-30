@@ -26,6 +26,7 @@ if sum == num:
     print("Perfect Number")
 else:
     print("Not Perfect")
+
 ```
 
 ---
